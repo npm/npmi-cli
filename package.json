@@ -1,0 +1,42 @@
+{
+  "name": "npmi-cli",
+  "version": "1.0.0",
+  "description": "command line interface for generating npm and npm Enterprise integrations",
+  "bin": {
+    "npmi": "index.js"
+  },
+  "scripts": {
+    "test": "standard",
+    "version": "standard-version
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/npmi-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "npmi",
+    "integration",
+    "npm"
+  ],
+  "author": "Ben Coe <ben@npmjs.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm/npmi-cli/issues"
+  },
+  "homepage": "https://github.com/npm/npmi-cli#readme",
+  "devDependencies": {
+    "standard": "^6.0.8",
+    "standard-version": "^2.1.2"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "dasherize": "^2.0.0",
+    "figures": "^1.5.0",
+    "inquirer": "^1.0.0",
+    "mustache": "^2.2.1",
+    "parse-git-config": "^0.4.2",
+    "pkginit": "0.0.2",
+    "yargs": "^4.6.0"
+  }
+}
