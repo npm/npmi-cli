@@ -30,7 +30,7 @@ function generateFiles () {
     {name: 'homepage', message: 'integration homepage', validate: validateUrl},
     {name: 'description', message: 'short description of integration'},
     {name: 'callback', message: 'OAuth 2.0 callback URL', validate: validateUrl},
-    {name: 'webhook', message: 'URL to post webhooks to', validate: validateUrl},
+    {name: 'webhook', message: 'URL to post webhooks to', validate: validateUrl}
   ]).then(function (answers) {
     fs.writeFileSync(
       path.resolve(process.cwd(), './index.json'),

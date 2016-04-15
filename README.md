@@ -1,5 +1,9 @@
 # npmi Command Line Interface
 
+[![Build Status](https://travis-ci.org/npm/npmi-cli.svg)](https://travis-ci.org/npm/npmi-cli)
+[![NPM version](https://img.shields.io/npm/v/npmi-cli.svg)](https://www.npmjs.com/package/npmi-cli)
+[![Standard Version](https://img.shields.io/badge/release-standard%20version-brightgreen.svg)](https://github.com/conventional-changelog/standard-version)
+
 command line interface for generating npm and npm Enterprise integrations
 
 ```sh
