@@ -7,7 +7,7 @@
   },
   "scripts": {
     "test": "standard",
-    "version": "standard-version
+    "version": "standard-version"
   },
   "repository": {
     "type": "git",
