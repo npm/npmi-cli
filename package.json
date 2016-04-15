@@ -1,6 +1,6 @@
 {
   "name": "npmi-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "command line interface for generating npm and npm Enterprise integrations",
   "bin": {
     "npmi": "index.js"
