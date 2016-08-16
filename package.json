@@ -37,6 +37,6 @@
     "mustache": "^2.2.1",
     "parse-git-config": "^0.4.2",
     "pkginit": "0.0.2",
-    "yargs": "^4.6.0"
+    "yargs": "^5.0.0"
   }
 }
