@@ -27,7 +27,7 @@
   "homepage": "https://github.com/npm/npmi-cli#readme",
   "devDependencies": {
     "standard": "^6.0.8",
-    "standard-version": "^2.1.2"
+    "standard-version": "^3.0.0"
   },
   "dependencies": {
     "chalk": "^1.1.3",
